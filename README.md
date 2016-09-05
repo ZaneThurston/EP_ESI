@@ -5,7 +5,19 @@
 
 [![Build Status](https://travis-ci.org/VictorGFS/EP_ESI.svg?branch=master)](https://travis-ci.org/VictorGFS/EP_ESI)
 
-Descrição
+##Integrantes do Projeto
+
+Laís Messias Bertoni
+
+Marcos Henrique Monteiro da Silva
+
+Raul Alves da Cunha Silveira Gioielli
+
+Ricardo Augusto Toledo da Silva
+
+Otávio Domingues Gondim de Albuquerque
+
+##Descrição
 
 É comum no mundo de hoje que pessoas tenham as mais variadas ideias porém não conheçam as ferramentas necessárias para implementá-las, e muitas vezes por não saberem como começar a materializar suas ideias, elas desistem da mesma.
 
@@ -16,3 +28,11 @@ Com uma interface de fácil interação e dinâmica a plataforma provê ao usuá
 O sistema também armazenará as informações sobre o perfil profissional do usuário, bem como os projetos que ele já se propôs, para assim, apresentar links de projetos que poderão interessá-lo. 
 
 IdeaTracker é uma plataforma integradora, para que ideias nunca tenham que morrer por falta de pessoas capacitadas, é desenhada para estimular a criação de times multicapacitados e para prover o melhor suporte ao desenvolvimento de qualquer projeto.
+
+##Links
+
+O projeto está hospedado no Heroku no seguinte endereço:
+https://epesi.herokuapp.com/
+
+Você pode acompanhar o desenvolvimento do projeto no Pivotal Tracker:
+https://www.pivotaltracker.com/n/projects/1857713
