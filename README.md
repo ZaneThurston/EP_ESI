@@ -9,8 +9,7 @@ Repositório para o nosso trabalhinho de Engenharia de Software, que em 6 meses 
 
 Descrição
 
-	É comum no mundo de hoje que pessoas tenham as mais variadas ideias porém não conheçam as ferramentas necessárias para implementá-las, e
-muitas vezes por não saberem como começar a materializar suas ideias, elas desistem da mesma.
+	É comum no mundo de hoje que pessoas tenham as mais variadas ideias porém não conheçam as ferramentas necessárias para implementá-las, e muitas vezes por não saberem como começar a materializar suas ideias, elas desistem da mesma.
 	É nesse contexto que surge o IdeaTracker, um site interativo que possui um único objetivo: Ajudar pessoas que tem boas ideias a montar o
 time do sonhos para torná-la realidade.
 	Com uma interface de fácil interação e dinâmica a plataforma provê ao usuário a possibilidade de anunciar sua ideia de forma que todas as
