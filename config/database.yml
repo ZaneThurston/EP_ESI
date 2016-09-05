@@ -9,7 +9,7 @@ default: &default
   pool: 5
   timeout: 5000
 
-development:
+production:
   <<: *default
   database: db/development.sqlite3
 
@@ -20,6 +20,9 @@ test:
   <<: *default
   database: db/test.sqlite3
 
-production:
-  <<: *default
-  database: db/production.sqlite3
+development:
+ adapter: postgresql
+ host: localhost
+ username: gvzavvjkdxkzuu
+ password: MUl9na1PyD5gOpKj-4iqj1daWX
+ database: d5qqlfmglk3sac
