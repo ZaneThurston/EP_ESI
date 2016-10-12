@@ -1,0 +1,15 @@
+<h1>Cadastro de Ideia</h1>
+<%= form_tag :action => 'create' do %>
+<p> <label for = "idea_name">Nome da Ideia</label>:
+
+<%= text_field 'ideas', 'name' %></p>
+
+<p> <label for = "idea_deadline">Prazo da Ideia</label>:
+<%= date_field 'ideas', 'deadline' %></p>
+
+<p> <label for = "idea_description">Descrição da Ideia</label>:
+<%= text_area 'ideas', 'description' %></p>
+
+<%= submit_tag "Cadastrar" %>
+
+<% end -%>
